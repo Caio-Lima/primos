@@ -25,7 +25,7 @@ int listaPrimos(int n){
  
 int main(){
     int n;
-    printf("Digite n:");
+    printf("Digite quantos numeros primos:");
     scanf("%d",&n);
     listaPrimos(n);
     return 0;
